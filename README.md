@@ -23,13 +23,13 @@ which will ask you for the entries interactively. You can also enter more than o
 
 Other options are:
 
-*-v* verbose output
-*-d YYYY-MM-DD* add entry for date YYY-MM-DD
-*-u bob* add entry with username bob
-*-f /path/to/file* use specified change log file instead of the default one
-*-e "commit message"* commit changes to /etc with etckeeper using specified commit message
-*-r* reboot system after updating the file
-*-s* output the file after updating
-*--version* print version
-*--help, -h* print help screen 
+- **-v** verbose output
+- **-d YYYY-MM-DD** add entry for date YYY-MM-DD
+- **-u bob** add entry with username bob
+- **-f /path/to/file** use specified change log file instead of the default one
+- **-e "commit message"** commit changes to /etc with etckeeper using specified commit message
+- **-r** reboot system after updating the file
+- **-s** output the file after updating
+- **--version** print version
+- **--help, -h** print help screen 
 
